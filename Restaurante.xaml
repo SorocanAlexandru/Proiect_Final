@@ -20,7 +20,7 @@ HeightRequest="64" />
         <Label FontSize="12" Text="Via este un loc superb, deschis într-o casă monument din centru istoric, ce datează de la sfârșitul secolului al XVIII-lea și restaurată impecabil. Este un restaurant scump, mai mult pentru ocazii speciale, dar cu mâncare și servicii excepționale. Cu siguranță, La Via este unul dintre cele mai bune restaurante din Transilvania – cei care i-au trecut pragul îl recomandă ca atare pe TripAdisor și alte site-uri de specialitate." 
                />
         <Label FontSize="18" FontAttributes="Bold" Text="Roata" />
-        <Label FontSize="12" FontAttributes="Bold" Text="Dacă tot vorbim de mâncare tradițională, o altă recomandare merge către Restaurant Roata. Porții zdravene, mânare bună, bere marcă proprie bună și aromată. Aflat pe o străduță micuță și ascunsă (deși situată chiar în mijlocul orașului), restaurantul e o descoperire tare faină, pe care merită să o treci pe lista de locuri unde mănânci bine în Cluj. Au supe, preparate la grătar și câteva specialități transilvănene. Plus o terasă umbrită și personalul foarte amabil."
+        <Label FontSize="12" Text="Dacă tot vorbim de mâncare tradițională, o altă recomandare merge către Restaurant Roata. Porții zdravene, mânare bună, bere marcă proprie bună și aromată. Aflat pe o străduță micuță și ascunsă (deși situată chiar în mijlocul orașului), restaurantul e o descoperire tare faină, pe care merită să o treci pe lista de locuri unde mănânci bine în Cluj. Au supe, preparate la grătar și câteva specialități transilvănene. Plus o terasă umbrită și personalul foarte amabil."
                />
     </VerticalStackLayout>
 </ContentPage>

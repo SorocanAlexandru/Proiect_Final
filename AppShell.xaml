@@ -8,12 +8,16 @@
 
     <TabBar>
         <ShellContent
- Title="Home"
+ Title="Principala"
  ContentTemplate="{DataTemplate local:MainPage}"
  />
         <ShellContent
  Title="Restaurante"
  ContentTemplate="{DataTemplate local:Restaurante}"
+ />
+        <ShellContent
+ Title="Rezervari Restaurante"
+ ContentTemplate="{DataTemplate local:ListaEntryRestaurante}"
  />
     </TabBar>
 
