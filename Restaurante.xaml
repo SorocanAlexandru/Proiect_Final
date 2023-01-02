@@ -8,9 +8,19 @@
             <Image Source="rest.jpg"
  SemanticProperties.Description="My Shopping List"
 HeightRequest="64" />
-            <Label FontSize="22" FontAttributes="Bold" Text="Lista de restaurante" VerticalOptions="End" />
+            <Label FontSize="22" FontAttributes="Bold" Text="Top restaurantelor din Cluj-Napoca" VerticalOptions="End" />
         </HorizontalStackLayout>
-        <Label Text="Mi-Mi" />
-        <Label Text="Texas" />
+        <Label FontSize="18" FontAttributes="Bold" Text="Baracca" />
+        <Label FontSize="12" Text="Baracca este unul dintre restaurantele cele mai bune din oraș și e de pus pe lista oricui merge la Cluj și vrea să mănânce foarte bine. E drept că e de fine dining (a și câștigat o mulțime de premii) și atmosfera e cumva complet diferită de una de festival. Dar dacă tot ești în Cluj pentru experiențe frumoase, de ce să nu încerci?! Meniul are preparate atât românești, cât și internaționale, folosesc ingrediente cât mai bune (pe cât se poate încearcă să se aprovizioneze local), iar mâncarea este excelentă! Prepararea foarte bună, prezentarea la fel, și ea atent făcută, de oameni care știu bine ce e aceea o bucătărie fină. Plus că și localul este amenajat la fel de impresionant."
+              />
+        <Label FontSize="18" FontAttributes="Bold" Text="Casa Boemă" />
+        <Label FontSize="12" Text="Casa Boemă arătă într-un mare fel, fiind renovat sub semnătura arh. Corvin Cristian, responsabil pentru foarte multe locuri frumoase din București. Merită să vii aici și doar pentru a bea un pahar cu apă și o cafea în cerdac și pentru a te bucura de atmosfera din grădina interioară, însă îți garantez că nu vei fi deloc dezamăgit nici de meniu. Au supe, preparate la grill, dar și pizza și burgeri, iar specialitatea casei este antricotul gătit în cuptor cu cărbune." 
+               />
+        <Label FontSize="18" FontAttributes="Bold" Text="Via" />
+        <Label FontSize="12" Text="Via este un loc superb, deschis într-o casă monument din centru istoric, ce datează de la sfârșitul secolului al XVIII-lea și restaurată impecabil. Este un restaurant scump, mai mult pentru ocazii speciale, dar cu mâncare și servicii excepționale. Cu siguranță, La Via este unul dintre cele mai bune restaurante din Transilvania – cei care i-au trecut pragul îl recomandă ca atare pe TripAdisor și alte site-uri de specialitate." 
+               />
+        <Label FontSize="18" FontAttributes="Bold" Text="Roata" />
+        <Label FontSize="12" FontAttributes="Bold" Text="Dacă tot vorbim de mâncare tradițională, o altă recomandare merge către Restaurant Roata. Porții zdravene, mânare bună, bere marcă proprie bună și aromată. Aflat pe o străduță micuță și ascunsă (deși situată chiar în mijlocul orașului), restaurantul e o descoperire tare faină, pe care merită să o treci pe lista de locuri unde mănânci bine în Cluj. Au supe, preparate la grătar și câteva specialități transilvănene. Plus o terasă umbrită și personalul foarte amabil."
+               />
     </VerticalStackLayout>
 </ContentPage>

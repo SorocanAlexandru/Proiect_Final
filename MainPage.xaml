@@ -16,13 +16,13 @@
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Bine ati venit!"
+                Text="Daca vrei sa mananci bine, noi te ajutam!"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" />
 
             <Label
-                Text="Rezervati loc intr un restaurant"
+                Text="Aplicatia pentru rezervari la restaurante"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Rezervati loc intr un restaurant 2"
                 FontSize="18"
