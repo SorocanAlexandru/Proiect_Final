@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SQLite;
+using SQLiteNetExtensions.Attributes;
 
 namespace Proiect_Final.Rezervari
 {
@@ -14,5 +15,9 @@ namespace Proiect_Final.Rezervari
         [MaxLength(250), Unique]
         public string Description { get; set; }
         public DateTime Date { get; set; }
+
+        [ForeignKey(typeof(Restaurantul))]
+        public int ShopID { get; set; }
+
     }
 }

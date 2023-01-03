@@ -12,9 +12,14 @@
  ContentTemplate="{DataTemplate local:MainPage}"
  />
         <ShellContent
- Title="Restaurante"
+ Title="Descriere Restaurante"
  ContentTemplate="{DataTemplate local:Restaurante}"
  />
+        <ShellContent
+ Title="Adrese Restaurante"
+ ContentTemplate="{DataTemplate local:RestaurantEntryPage}"
+ />
+        
         <ShellContent
  Title="Rezervari Restaurante"
  ContentTemplate="{DataTemplate local:ListaEntryRestaurante}"
