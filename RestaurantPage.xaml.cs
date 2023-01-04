@@ -15,13 +15,13 @@ public partial class RestaurantPage : ContentPage
         var shop = (Restaurantul)BindingContext;
         await AppShell.Database.SaveShopAsync(shop);
         await Navigation.PopAsync();
-        var address = shop.Adress;
+        var detalii = shop.ShopDetails;
         var nume = shop.ShopName;
         
             var request = new NotificationRequest
             {
                 Title = "Ai rezervare la restaurantul " + nume,
-                Description = address,
+                Description = detalii,
                 Schedule = new NotificationRequestSchedule
                 {
                     NotifyTime = DateTime.Now.AddSeconds(1)
